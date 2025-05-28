@@ -1,4 +1,7 @@
-## Hi there 👋
+Building, making, and stretching the mind 🧠
+Creativity is a muscle 💪
+Projects, robots, DIY and more!
+youtube.com/@ExercisingIngenuity
 
 <!--
 **exercising-ingenuity/exercising-ingenuity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
